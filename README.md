@@ -16,6 +16,7 @@ A basic list of the things I am learning at the moment, I have recently learnt o
 - Functional Programming in Scala, book Paul Chiusano and Runar Bjarnason
 - [Scalaz](https://github.com/scalaz/scalaz), this seems to be a good introduction: [learning scalaz](http://eed3si9n.com/learning-scalaz/)
 - [non cats](https://github.com/non/cats)
+- [FP101x](https://courses.edx.org/courses/course-v1:DelftX+FP101x+3T2015/)
 
 
 ## Maths
