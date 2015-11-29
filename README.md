@@ -21,6 +21,7 @@ A basic list of the things I am learning at the moment, I have recently learnt o
 
 ## Maths
 
+- Naive Set Theory, book by Paul R. Halmos
 - A Course of Pure Mathematics, book by G. H. Hardy
 - Theory of Games and Economic Behaviour, book by J. von Neumann, Morgenstern
 
